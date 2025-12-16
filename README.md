@@ -30,14 +30,6 @@
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davmunher&layout=compact&theme=dark"  alt="Most used langs graph" />
-</p>
-
----
-
 ## 🚀 Technologies & Tools
 
 ### 🔹 Frontend
