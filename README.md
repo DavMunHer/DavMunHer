@@ -57,8 +57,6 @@
 
 ## 🧭 Where I Spend My Time (Coding Activity)
 
-> ⚠️ Requires **WakaTime** account (WIP)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavMunHer&theme=dark" alt="Spent time graph" />
 </p>
