@@ -60,7 +60,7 @@
 > ⚠️ Requires **WakaTime** account (WIP)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_USERNAME&theme=dark" alt="Spent time graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavMunHer&theme=dark" alt="Spent time graph" />
 </p>
 
 ---
