@@ -26,7 +26,7 @@
 ## Featured projects
 
 [![TWDist-Desktop](https://github-readme-stats.vercel.app/api/pin/?username=davmunher&repo=TWDist-Desktop)](https://github.com/DavMunHer/TWDist-Desktop)
-[![TWD Components Gallery](https://github-readme-stats.vercel.app/api/pin/?username=davmunher&repo=TWDComponentsGallery)]([https://github.com/minoveaz/twdist-desktop](https://github.com/DavMunHer/TWDComponentsGallery))
+[![TWD Components Gallery](https://github-readme-stats.vercel.app/api/pin/?username=davmunher&repo=TWDComponentsGallery)](https://github.com/DavMunHer/TWDComponentsGallery)
 
 ---
 
