@@ -27,6 +27,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davmunher&layout=compact&theme=dark"  alt="Most used langs graph" />
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -39,5 +40,5 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/davmunher
-- LinkedIn: https://linkedin.com/in/davmunher
+- Email: [davidmunyozh@gmail.com](mailto:davidmunyozh@gmail.com)
+- LinkedIn: [davmunher](https://linkedin.com/in/davmunher)
