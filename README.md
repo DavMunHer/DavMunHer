@@ -22,45 +22,11 @@
 
 ---
 
-## 🗂 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davmunher&layout=compact&theme=dark"  alt="Most used langs graph" />
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davmunher&theme=dark" alt="Contribution streak graph" />
-</p>
-
----
-
-## 📅 Productivity Breakdown
-
-### 📆 Most Productive Day
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davmunher&theme=dark" alt="Most productive day" />
-</p>
-
----
-
-## ⏰ Commit Activity (Time & Weekdays)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-time?username=davmunher&theme=dark" alt="Commit activity graph" />
-</p>
-
----
-
-## 🧭 Where I Spend My Time (Coding Activity)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavMunHer&theme=dark" alt="Spent time graph" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
