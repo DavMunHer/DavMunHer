@@ -18,12 +18,15 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davmunher&show_icons=true&theme=dark" alt="GitHub overview graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davmunher&show_icons=true&theme=dark" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davmunher&theme=dark&show_icons=true&hide_border=false&layout=compact" height="165" />
 </p>
+
 
 ---
 
-## Featured projects
+## ⚡ Featured projects
 
 [![TWDist-Desktop](https://github-readme-stats.vercel.app/api/pin/?username=davmunher&repo=TWDist-Desktop)](https://github.com/DavMunHer/TWDist-Desktop)
 [![TWD Components Gallery](https://github-readme-stats.vercel.app/api/pin/?username=davmunher&repo=TWDComponentsGallery)](https://github.com/DavMunHer/TWDComponentsGallery)
