@@ -23,10 +23,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=davmunher&theme=tokyonight&hide_border=true" height="160"/>
+      <img src="https://streak-stats.demolab.com?user=davmunher&theme=dark&hide_border=true" height="160"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davmunher&theme=tokyonight&utcOffset=1" height="160"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davmunher&theme=dark&utcOffset=1" height="160"/>
     </td>
   </tr>
 </table>
