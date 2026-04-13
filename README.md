@@ -16,12 +16,20 @@
 ---
 
 ## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davmunher&show_icons=true&theme=dark" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davmunher&theme=dark&show_icons=true&hide_border=false&layout=compact" height="165" />
-</p>
+<table align="center">
+  <tr>
+    <th>Contribution Streak</th>
+    <th>Coding Activity</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=davmunher&theme=tokyonight&hide_border=true" height="160"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davmunher&theme=tokyonight&utcOffset=1" height="160"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
